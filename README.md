@@ -1,5 +1,5 @@
 # VR-Suite<br>
-## prerequisite<br>
+## Prerequisite<br>
 1.Unity 3D version 5.3.3<br>
 2.gvr sdk for unity<br>
 3.android sdk<br>
@@ -10,7 +10,7 @@
 4.	Glove<br>
 ## Start page<br>
 ![start page](https://user-images.githubusercontent.com/23116935/37919852-be46a930-3142-11e8-8068-68d3fb6d6c1f.png)<br>
-## First scree<br>
+## First screen<br>
 ![first after start](https://user-images.githubusercontent.com/23116935/37919848-bd9f5edc-3142-11e8-92b8-702658e1b4af.png)<br>
 ## office scene<br>
 ![office scene](https://user-images.githubusercontent.com/23116935/37919850-be0f1dda-3142-11e8-8243-5968a64f8a13.png)
